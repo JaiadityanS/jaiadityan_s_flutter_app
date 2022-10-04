@@ -3,15 +3,7 @@
 
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>
-  <strong>
-    Generated with ❤️ from DhiWise
-  </strong>
-  <p>
-    This is the documentation of Flutter Applications.
-    It contains all the information you need to get started with
-    and make changes to your App
-  </p>
-</div>
+ </div>
 
 
 ### Table of Contents
@@ -28,11 +20,6 @@
 
 Dart SDK Version 2.17.0 or greater.
 Flutter SDK Version 3.0.0 or greater.
-
-### Figma design guidelines for better accuracy
-
-Read our guidelines to increase the accuracy of design conversion to code by optimizing Figma designs.
-https://docs.dhiwise.com/docs/Designguidelines/intro
 
 ### App Navigations
 
